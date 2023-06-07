@@ -4,5 +4,5 @@ metadata:
   name: Examplerepo
 spec:
   type: service
-  owner: user:guest
+  owner: RutujaGadhave-Hexaware
   lifecycle: experimental
